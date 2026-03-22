@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+backend/storage/jobs/
+backend/storage/app.db
+frontend/.env
+frontend/.env.local
